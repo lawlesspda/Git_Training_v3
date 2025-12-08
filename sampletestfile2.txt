@@ -1,1 +1,4 @@
 this is sampel file2
+
+Git revert 1
+This is Sample File 2

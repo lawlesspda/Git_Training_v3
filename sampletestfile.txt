@@ -1,7 +1,11 @@
 this is sampel file
 
-in this chapter we will show some basic HTML examples
-~
 
-~
+in this chapter we will show some basic HTML examples
+
+
+
+
+
+This is Sample File 1
 
